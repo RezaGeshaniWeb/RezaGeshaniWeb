@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb" alt="rezageshaniweb" /></a> </p>
 
-- 🌱 I’m currently learning **Html5,Css3,javascript,react.js,next.js,tailwind,bootstrap....**
+- 🌱 I’m currently learning **Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RezaGeshaniWeb/](https://github.com/RezaGeshaniWeb/)
 
-- 💬 Ask me about **html5,css3,javascript,react.js,next.js,tailwind,bootstrap....**
+- 💬 Ask me about **Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....**
 
 - 📫 How to reach me **rezageshaniweb@gmail.com**
 
