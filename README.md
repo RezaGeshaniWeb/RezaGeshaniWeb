@@ -10,6 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb" alt="rezageshaniweb" /></a> </p>
 
+<h2 align="center">🏆 GitHub Achievements:</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
+</p>
+
 - 🌱 I’m currently learning **Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RezaGeshaniWeb/](https://github.com/RezaGeshaniWeb/)
