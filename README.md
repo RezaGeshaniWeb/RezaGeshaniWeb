@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
 <div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
-
+<br>
 <h1 align="left">Hi 👋, I'm Reza Geshani</h1>
 
 <h3 align="left">A frontend developer from Iran</h3>
@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&locale=en" alt="rezageshaniweb" /></p>
 
-<br>
+<br><br>
 
 <a align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
 
