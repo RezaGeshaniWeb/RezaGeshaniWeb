@@ -8,10 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezageshaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="rezageshaniweb" /> </p>
 
-<h2 align="center">🏆 GitHub Achievements:</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heizshubham&theme=onedark" alt="heizshubham-trophies" /></a>
-</p>
+<h2 align="left">🏆 GitHub Achievements:</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatemeabdolmaleki" alt="fatemeabdolmaleki" /></a> </p>
 
 - 🌱 I’m currently learning **Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....**
 
