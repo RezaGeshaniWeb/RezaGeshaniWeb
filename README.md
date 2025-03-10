@@ -1,3 +1,7 @@
+<img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+
+<div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
+
 <h1 align="center">Hi 👋, I'm Reza Geshani</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
@@ -26,3 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&locale=en" alt="rezageshaniweb" /></p>
 
+<footer style="background-color: #000000; padding: 10px; text-align: center; color: #ffffff;">
+    <p>© 2024 Shubham Pandey. All Rights Reserved.</p>
+  </footer>
