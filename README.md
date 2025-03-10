@@ -2,6 +2,8 @@
 
 <div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
 
+<br />
+
 <h1 align="center">Hi 👋, I'm Reza Geshani</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
@@ -29,7 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezageshaniweb&show_icons=true&locale=en&layout=compact" alt="rezageshaniweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&locale=en" alt="rezageshaniweb" /></p>
-
-<footer style="background-color: #000000; padding: 10px; text-align: center; color: #ffffff;">
-    <p>© 2024 Shubham Pandey. All Rights Reserved.</p>
-  </footer>
