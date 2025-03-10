@@ -2,7 +2,7 @@
 
 <div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
 
-<h1 align="center" style="margin: 20px 0;">Hi 👋, I'm Reza Geshani</h1>
+<h1 align="center">Hi 👋, I'm Reza Geshani</h1>
 
 <h3 align="center">A frontend developer from Iran</h3>
 
