@@ -1,7 +1,11 @@
 <img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
-<div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
 <br>
+
+<div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
+  
+<br>
+
 <h1 align="left">Hi 👋, I'm Reza Geshani</h1>
 
 <h3 align="left">A frontend developer from Iran</h3>
