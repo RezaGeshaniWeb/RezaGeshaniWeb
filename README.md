@@ -1,11 +1,9 @@
 <img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
-<pre>
-</pre>
-
 <div style="background-image: url('https://i.imgur.com/bDl8TgW.jpg'); background-size: cover; padding: 20px;">
   
-<br>
+<pre>
+</pre>
 
 <h1 align="left">Hi 👋, I'm Reza Geshani</h1>
 
