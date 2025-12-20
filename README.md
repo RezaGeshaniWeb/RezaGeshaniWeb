@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezageshaniweb&show_icons=true&locale=en&layout=compact" alt="rezageshaniweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&locale=en" alt="rezageshaniweb" /></p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
