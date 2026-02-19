@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Reza Geshani</h1>
-  <h3>🚀 Full Stack Developer from Iran</h3>
+  <h3>🚀 Frontend Developer from Iran</h3>
 </div>
 
 <br/>
@@ -19,17 +19,21 @@
 
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="rezageshaniweb" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb&theme=gruvbox&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15" alt="rezageshaniweb" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezageshaniweb&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="rezageshaniweb" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezageshaniweb&layout=compact&langs_count=8&theme=gruvbox" alt="rezageshaniweb" />
+  </p>
 </div>
 
 <br/>
@@ -135,5 +139,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rezageshaniweb&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <h2>🔥 GitHub Streak</h2>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=rezageshaniweb&theme=gruvbox" alt="GitHub Streak"/>
+  </p>
 </div>
