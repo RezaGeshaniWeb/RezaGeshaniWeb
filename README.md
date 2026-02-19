@@ -1,31 +1,139 @@
-<img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
-&nbsp;
-<h1 align="left">Hi 👋, I'm Reza Geshani</h1>    
+<div align="center">
+  <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Coding" style="border-radius:10px" width="100%"/>
+</div>
 
-<h3 align="left">A frontend developer from Iran</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezageshaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="rezageshaniweb" /> </p>
+<div align="center">
+  <h1>👋 Hi, I'm Reza Geshani</h1>
+  <h3>🚀 Full Stack Developer from Iran</h3>
+</div>
 
-<h2 align="left">🏆 GitHub Achievements:</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb" alt="rezageshaniweb" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rezageshaniweb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rezageshaniweb" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/RezaGeshaniWeb/](https://github.com/RezaGeshaniWeb/)
+<br/>
 
-- 💬 Ask me about **Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....**
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="rezageshaniweb" />
+  </a>
+</div>
 
-- 📫 How to reach me **rezageshaniweb@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reza-geshani-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-geshani-web" height="30" width="40" /></a>
-<a href="https://instagram.com/rezageshani_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezageshani_web" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezageshaniweb&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezageshaniweb&show_icons=true&locale=en&layout=compact" alt="rezageshaniweb" /></p>
+<div align="center">
+  <h2>🛠️ Skills & Technologies</h2>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&locale=en" alt="rezageshaniweb" /></p>
+### 🎨 Frontend Development
+
+<div align="center">
+  
+#### Core Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+
+#### Styling
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+#### API & Data Fetching
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+#### Forms & Validation
+![Formik](https://img.shields.io/badge/Formik-000000?style=for-the-badge&logo=formik&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-FF6B6B?style=for-the-badge&logo=yup&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+
+#### Authentication & Maps
+![Next Auth](https://img.shields.io/badge/Next_Auth-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+</div>
+
+<br/>
+
+### ⚙️ Backend Development
+
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h2>📈 GitHub Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezageshaniweb&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>💬 Connect with me</h2>
+  <p>
+    <a href="https://linkedin.com/in/reza-geshani-web" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-geshani-web" height="40" width="40" />
+    </a>
+    <a href="https://instagram.com/rezageshani_web" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezageshani_web" height="40" width="40" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📧 Contact</h2>
+  <p>
+    📫 Email: <a href="mailto:rezageshaniweb@gmail.com">rezageshaniweb@gmail.com</a>
+  </p>
+  <p>
+    👨‍💻 All of my projects are available at <a href="https://github.com/RezaGeshaniWeb/">GitHub</a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🌱 Currently Learning</h2>
+  <p>
+    HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Bootstrap • TypeScript • Node.js • MongoDB
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rezageshaniweb&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
