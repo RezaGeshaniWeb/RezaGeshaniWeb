@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Reza Geshani</h1>
-  <h3>🚀 Frontend Developer from Iran</h3>
+  <h3>🚀 FullStack Developer from Iran</h3>
 </div>
 
 <br/>
