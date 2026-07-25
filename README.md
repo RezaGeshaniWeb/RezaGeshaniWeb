@@ -8,16 +8,15 @@
 
   # Hi, I'm Reza Geshani 👋
 
-  <h2><b>Full Stack Developer</b></h2>
-  Tehran, Iran  
+  **Full Stack Developer** · Tehran, Iran  
   Crafting exceptional web experiences with Next.js, React, Node.js & Express.js
+
+  <br/>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-rezageshani.ir-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rezageshani.ir/)
   [![Gmail](https://img.shields.io/badge/Gmail-rezageshaniweb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezageshaniweb@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-reza--geshani--web-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reza-geshani-web)
   [![Instagram](https://img.shields.io/badge/Instagram-rezageshani__web-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezageshani_web)
-
-  <img src="https://komarev.com/ghpvc/?username=rezageshaniweb&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -110,14 +109,6 @@ Alongside development, I teach web design at **Tehran Technical Complex (مجت�
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezageshaniweb&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rezageshaniweb&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
