@@ -8,7 +8,8 @@
 
   # Hi, I'm Reza Geshani 👋
 
-  **Full Stack Developer** · Tehran, Iran  
+  <h2><b>Full Stack Developer</b></h2>
+  Tehran, Iran  
   Crafting exceptional web experiences with Next.js, React, Node.js & Express.js
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-rezageshani.ir-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rezageshani.ir/)
@@ -28,7 +29,7 @@ I'm a full stack developer who believes great software comes from curiosity, dis
 
 Alongside development, I teach web design at **Tehran Technical Complex (مجتمع فنی تهران)**, helping students build clean, responsive websites.
 
-- 🔭 Focus: Full stack web products with Next.js & Node.js
+- 🔭 Focus: Full stack web products with Next.js & Express.js
 - 🌱 Mindset: Always learning new tech and sharper UI details
 - 👨‍🏫 Teaching: Web design instructor · مجتمع فنی تهران
 - 📍 Based in Tehran, Iran
@@ -105,20 +106,7 @@ Alongside development, I teach web design at **Tehran Technical Complex (مجت�
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezageshaniweb&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezageshaniweb&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rezageshaniweb&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezageshaniweb&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" width="100%" />
